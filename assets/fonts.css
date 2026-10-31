@@ -4,7 +4,7 @@
   font-weight: 500;
   font-stretch: normal;
   font-display: swap;
-  src: url(./display-500.ttf) format('truetype');
+  src: url(./display-500.woff2) format('woff2');
 }
 @font-face {
   font-family: 'Bricolage Grotesque';
@@ -12,28 +12,28 @@
   font-weight: 600;
   font-stretch: normal;
   font-display: swap;
-  src: url(./display-600.ttf) format('truetype');
+  src: url(./display-600.woff2) format('woff2');
 }
 @font-face {
   font-family: 'DM Sans';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(./body-400.ttf) format('truetype');
+  src: url(./body-400.woff2) format('woff2');
 }
 @font-face {
   font-family: 'DM Sans';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(./body-500.ttf) format('truetype');
+  src: url(./body-500.woff2) format('woff2');
 }
 @font-face {
   font-family: 'DM Sans';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(./body-600.ttf) format('truetype');
+  src: url(./body-600.woff2) format('woff2');
 }
 
 @font-face {
@@ -41,12 +41,12 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(./editorial-400.ttf) format('truetype');
+  src: url(./editorial-400.woff2) format('woff2');
 }
 @font-face {
   font-family: 'Newsreader';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(./editorial-500.ttf) format('truetype');
+  src: url(./editorial-500.woff2) format('woff2');
 }
